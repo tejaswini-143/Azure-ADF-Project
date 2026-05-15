@@ -1,4 +1,4 @@
-<img width="800" height="410" alt="image" src="https://github.com/user-attachments/assets/2f833be3-c0cb-4732-9f7e-5a5e67c7c933" /># 🚀 End-to-End Azure Data Engineering Pipeline (On-Prem to Cloud)
+# 🚀 End-to-End Azure Data Engineering Pipeline (On-Prem to Cloud)
 
 ## 📌 Overview
 This project demonstrates an end-to-end data engineering pipeline that migrates data from an on-premises system to the Azure cloud, processes it using modern data engineering tools, and generates business insights through Power BI dashboards.
