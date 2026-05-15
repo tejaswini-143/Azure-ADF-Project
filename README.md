@@ -100,7 +100,8 @@ The pipeline covers the complete data lifecycle including ingestion, transformat
 - Included KPIs, trends, and reporting visuals  
 - Connected Power BI to Azure Synapse / Data Lake  
 
-*(Add screenshots here if available)*
+<img width="1315" height="726" alt="image" src="https://github.com/user-attachments/assets/4c8c7a65-c007-4c66-b284-d74b15cee78a" />
+
 
 ---
 
